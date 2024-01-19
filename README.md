@@ -1,6 +1,6 @@
 - 👋 Olá! Muito prazer, sou o Raphael!
-- 👀 Interessado na área de desenvolvimento web (front-end e back-end).
-- 🌱 Atualmente estudando ferramentas e linguagens de front-end com documentações e cursos na internet.
+- 👀 Interessado na área de dados (análise, tratamento e visualização/reports).
+- 🌱 Atualmente estudando livrarias de python com documentações e cursos online.
 - 📫 Entre em contato comigo no email raphaeldomingues96@gmail.com
 
 <!---
